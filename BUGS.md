@@ -1,0 +1,1 @@
+1. PS_PAGE_ORIENTATION is useless
